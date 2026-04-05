@@ -3,7 +3,7 @@ My name is Srithan Andra, and I'm a CSE student @ UC Irvine. My interests includ
 
 LinkedIn: https://www.linkedin.com/in/srithan-andra-45992b266/
 
-Personal website: srithanandra.github.io
+Personal website: Link
 
 Instagram: https://www.instagram.com/andra.srithan/
 
