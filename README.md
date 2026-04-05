@@ -1,5 +1,4 @@
-My name is Srithan Andra, and I'm a CSE student @ UC Irvine. My interests include.
-
+My name is Srithan Andra, and I'm a CSE student @ UC Irvine.
 
 LinkedIn: https://www.linkedin.com/in/srithan-andra-45992b266/
 
