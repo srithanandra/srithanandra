@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there!!
+# My name is Srithan Andra, and I'm a CSE student @ UC Irvine. My interests include.
+# LinkedIn
+# Personal website: 
+# Instagram: https://www.instagram.com/andra.srithan/
 
 <!--
 **srithanandra/srithanandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
