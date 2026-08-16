@@ -1,4 +1,6 @@
-My name is Srithan Andra, and I'm a CSE student @ UC Irvine. I am most drawn to the intersection of software and hardware and the use of embedded systems, and I thrive the most when I am solving difficult problems with a talented and tight-knit team. I am currently exploring how robotics, sensor fusion, and autonomous systems can be used to make the world a more efficient place and am conducting research on the use of ML in the field of optical computing. More about me below:
+My name is Srithan Andra, and I'm a CSE student @ UC Irvine.
+
+I am most drawn to the intersection of software and hardware and the use of embedded systems, and I thrive the most when I am solving difficult problems with a talented and tight-knit team. I am currently exploring how robotics, sensor fusion, and autonomous systems can be used to make the world a more efficient place and am conducting research on the use of ML in the field of optical computing. More about me below:
 
 LinkedIn: https://www.linkedin.com/in/srithan-andra-45992b266/
 
